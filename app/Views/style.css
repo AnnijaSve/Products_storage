@@ -1,0 +1,89 @@
+.nav {
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+
+}
+
+.div1 {
+    text-align: end;
+}
+
+.p1 {
+    display: inline;
+    font-size: xx-large;
+    margin-right: 1150px;
+}
+
+.p2 {
+    display: inline;
+    font-size: medium;
+}
+
+.label1 {
+    display: inline;
+    font-size: medium;
+    padding: 2px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+}
+
+.a1 {
+    padding: 20px;
+}
+
+.checkbox {
+    text-align: left;
+    margin-left: 30px;
+}
+
+.inline {
+    display: inline-grid;
+}
+
+.product {
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    margin: 20px;
+    border: 1px #3377ff;
+    border-radius: 10px;
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.new {
+    text-align: center;
+    align-content: center;
+    background-color: lightgray;
+    width: 300px;
+    display: inline-list-item;
+    padding: 30px;
+    margin-left: 100px;
+}
+
+.fields {
+    margin-left: 120px;
+    padding: 10px;
+}
+
+label.error {
+    color: red;
+    font-size: 1rem;
+    display: block;
+    margin-top: 5px;
+}
+
+input.error, textarea.error {
+    border: 1px solid red;
+    font-weight: 300;
+    color: red;
+}
+.error {
+    color: red;
+    font-size: 1rem;
+    display: block;
+    margin-top: 5px;
+}
